@@ -3,13 +3,13 @@
   topicHref: /
   items:
   - name: Overview
-    tocHref: /concepts/overview
-    topicHref: /concepts/overview
+    tocHref: /MSGraphDocs_Conceptual_Test/MSGraphDocs_Conceptual_Test/concepts/overview
+    topicHref: /MSGraphDocs_Conceptual_Test/MSGraphDocs_Conceptual_Test/concepts/overview
     items:
     - name: Featured scenarios
-      tocHref: /concepts/featured_scenarios
-      topicHref: /concepts/featured_scenarios
+      tocHref: /MSGraphDocs_Conceptual_Test/MSGraphDocs_Conceptual_Test/concepts/featured_scenarios
+      topicHref: /MSGraphDocs_Conceptual_Test/MSGraphDocs_Conceptual_Test/concepts/featured_scenarios
       items:
       - name: Find meeting times
-        tocHref: /concepts/findmeetingtimes_example
-        topicHref: /concepts/findmeetingtimes_example
+        tocHref: /MSGraphDocs_Conceptual_Test/MSGraphDocs_Conceptual_Test/concepts/findmeetingtimes_example
+        topicHref: /MSGraphDocs_Conceptual_Test/MSGraphDocs_Conceptual_Test/concepts/findmeetingtimes_example
