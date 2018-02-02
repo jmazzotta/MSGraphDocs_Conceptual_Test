@@ -1,3 +1,3 @@
 ---
-redirect_url: /concepts/overview
+redirect_url: /MSGraphDocs_Conceptual_Test/concepts/overview
 ---
