@@ -1,3 +1,3 @@
 ---
-redirect_url: 'overview'
+redirect_url: /concepts/overview
 ---
