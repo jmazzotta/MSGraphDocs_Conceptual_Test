@@ -1,1 +1,3 @@
-# Welcome to MSGraphDocs_Conceptual_Test!
+---
+redirect_url: 'overview'
+---
