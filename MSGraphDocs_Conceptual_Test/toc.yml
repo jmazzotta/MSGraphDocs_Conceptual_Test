@@ -1,32 +1,32 @@
 - name: EXPLORE   
   href: http://graph.microsoft.com
   items:
-  - name: Overview     
+  - name: Overview
     href: /en-us/concepts/overview
-	- name: Services in Microsoft Graph     
+  - name: Services in Microsoft Graph
     href: /en-us/concepts/overview-major-services
-	- name: Users you can reach     
+  - name: Users you can reach 
     href: /en-us/concepts/users-you-can-reach
-    items:
-		- name: National cloud deployments       
-      href: /en-us/concepts/deployments
-		- name: Hybrid deployments (preview)       
-      href: /en-us/concepts/hybrid_rest_support
-	- name: Versioning and support     
+  items:
+  - name: National cloud deployments 
+    href: /en-us/concepts/deployments
+  - name: Hybrid deployments (preview)    
+    href: /en-us/concepts/hybrid_rest_support
+  - name: Versioning and support  
     href: /en-us/concepts/versioning_and_support
-  - name: Quick starts     
+  - name: Quick starts  
     href: /en-us/concepts/get-started
-    items:
-    - name: Android       
-      href: /en-us/concepts/android
-    - name: Angular       
-      href: /en-us/concepts/angular
-    - name: ASP.NET MVC       
-      href: /en-us/concepts/aspnetmvc
-    - name: iOS (Objective-C)       
-      href: /en-us/concepts/ios_objectivec
-    - name: iOS (Swift)       
-      href: /en-us/concepts/ios_swift
+  items:
+  - name: Android    
+    href: /en-us/concepts/android
+  - name: Angular    
+    href: /en-us/concepts/angular
+  - name: ASP.NET MVC       
+    href: /en-us/concepts/aspnetmvc
+  - name: iOS (Objective-C)       
+    href: /en-us/concepts/ios_objectivec
+  - name: iOS (Swift)       
+    href: /en-us/concepts/ios_swift
 	- name: Node.js     
     href: /en-us/concepts/nodejs
     items:
