@@ -1,0 +1,15 @@
+- name: Docs
+  tocHref: /
+  topicHref: /
+  items:
+  - name: Overview
+    tocHref: /MSGraphDocs_Conceptual_Test/concepts/overview
+    topicHref: /MSGraphDocs_Conceptual_Test/concepts/overview
+    items:
+    - name: Featured scenarios
+      tocHref: /MSGraphDocs_Conceptual_Test/concepts/featured_scenarios
+      topicHref: /MSGraphDocs_Conceptual_Test/concepts/featured_scenarios
+      items:
+      - name: Find meeting times
+        tocHref: /MSGraphDocs_Conceptual_Test/concepts/findmeetingtimes_example
+        topicHref: /MSGraphDocs_Conceptual_Test/concepts/findmeetingtimes_example

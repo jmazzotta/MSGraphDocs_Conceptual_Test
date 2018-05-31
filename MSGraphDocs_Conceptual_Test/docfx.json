@@ -9,8 +9,6 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
@@ -26,20 +24,18 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**"
+          "**/includes/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/MSGraphDocs_Conceptual_Test/breadcrumb/toc.json",
+      "breadcrumb_path": "/MSGraph/breadcrumb/toc.json",
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "MSGraphDocs_Conceptual_Test"
+    "dest": "MSGraphDocs_Conceptual"
   }
 }

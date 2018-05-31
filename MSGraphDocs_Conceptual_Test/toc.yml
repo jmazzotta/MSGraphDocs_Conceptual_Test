@@ -1,15 +1,208 @@
-- name: Docs
-  tocHref: /
-  topicHref: /
+- name: EXPLORE   
+  href: http://graph.microsoft.com
   items:
-  - name: Overview
-    tocHref: /MSGraphDocs_Conceptual_Test/concepts/overview
-    topicHref: /MSGraphDocs_Conceptual_Test/concepts/overview
+  - name: Overview     
+    href: /en-us/concepts/overview
+	- name: Services in Microsoft Graph     
+    href: /en-us/concepts/overview-major-services
+	- name: Users you can reach     
+    href: /en-us/concepts/users-you-can-reach
     items:
-    - name: Featured scenarios
-      tocHref: /MSGraphDocs_Conceptual_Test/concepts/featured_scenarios
-      topicHref: /MSGraphDocs_Conceptual_Test/concepts/featured_scenarios
-      items:
-      - name: Find meeting times
-        tocHref: /MSGraphDocs_Conceptual_Test/concepts/findmeetingtimes_example
-        topicHref: /MSGraphDocs_Conceptual_Test/concepts/findmeetingtimes_example
+		- name: National cloud deployments       
+      href: /en-us/concepts/deployments
+		- name: Hybrid deployments (preview)       
+      href: /en-us/concepts/hybrid_rest_support
+	- name: Versioning and support     
+    href: /en-us/concepts/versioning_and_support
+  - name: Quick starts     
+    href: /en-us/concepts/get-started
+    items:
+    - name: Android       
+      href: /en-us/concepts/android
+    - name: Angular       
+      href: /en-us/concepts/angular
+    - name: ASP.NET MVC       
+      href: /en-us/concepts/aspnetmvc
+    - name: iOS (Objective-C)       
+      href: /en-us/concepts/ios_objectivec
+    - name: iOS (Swift)       
+      href: /en-us/concepts/ios_swift
+	- name: Node.js     
+    href: /en-us/concepts/nodejs
+    items:
+    - name: PHP       
+      href: /en-us/concepts/php
+    - name: Python       
+      href: /en-us/concepts/python
+    - name: Ruby       
+      href: /en-us/concepts/ruby
+    - name: REST       
+      href: /en-us/concepts/rest
+    - name: UWP       
+      href: /en-us/concepts/uwp
+    - name: Visual Studio Connected Services       
+      href: /en-us/concepts/office_365_connected_services
+    - name: Xamarin       
+      href: /en-us/concepts/xamarin
+- name: LEARN   
+  href: http://graph.microsoft.com
+  items:
+  - name: Users     
+    href: /en-us/concepts/azuread-users-concept-overview
+  - name: Groups     
+    href: /en-us/concepts/office365-groups-concept-overview
+  - name: Calendar     
+    href: /en-us/concepts/outlook-calendar-concept-overview
+    items:
+	  - name: Find meeting times       
+      href: /en-us/concepts/findmeetingtimes_example
+	  - name: Schedule recurring events       
+      href: /en-us/concepts/outlook-schedule-recurring-events
+  - name: Cross-device experiences     
+    href: /en-us/concepts/cross-device-concept-overview
+    items:
+    - name: Activity feed       
+      href: /en-us/concepts/activity-feed-concept-overview
+    - name: Device relay (preview)       
+      href: /en-us/concepts/device-relay-concept-overview
+  - name: Customer booking (preview)     
+    href: /en-us/concepts/booking-concept-overview
+  - name: Devices and apps     
+    href: /en-us/concepts/intune-concept-overview
+  - name: Education     
+    href: /en-us/concepts/education-concept-overview
+  - name: Files     
+    href: /en-us/concepts/onedrive-concept-overview
+  - name: Identity and access     
+    href: /en-us/concepts/azuread-identity-access-management-concept-overview
+  - name: Mail     
+    href: /en-us/concepts/outlook-mail-concept-overview
+    items:
+	  - name: Create and send messages       
+      href: /en-us/concepts/outlook-create-send-messages
+	  - name: Organize messages       
+      href: /en-us/concepts/outlook-organize-messages
+	  - name: Share message folders       
+      href: /en-us/concepts/outlook-share-messages-folders
+  - name: Notes     
+    href: /en-us/concepts/integrate_with_onenote
+    items:
+    - name: Best practices       
+      href: /en-us/concepts/onenote_best_practices  
+    - name:        
+      href: /en-us/concepts/
+	- name: Branding guidelines     
+    href: /en-us/concepts/onenote-branding
+	- name: Open the OneNote client     
+    href: /en-us/concepts/open_onenote_client
+	- name: Use note tags     
+    href: /en-us/concepts/onenote-note-tags
+	- name: Error codes     
+    href: /en-us/concepts/onenote_error_codes
+  - name: Get OneNote content     
+    href: /en-us/concepts/onenote-get-content
+	- name: Create pages     
+    href: /en-us/concepts/onenote-create-page
+	- name: Update page content     
+    href: /en-us/concepts/onenote_update_page
+	- name: Create absolute positioned elements     
+    href: /en-us/concepts/onenote-abs-pos
+	- name: Add images, videos, and files     
+    href: /en-us/concepts/onenote_images_files
+	- name: Extract data     
+    href: /en-us/concepts/onenote-extract-data
+	- name: Input and output HTML     
+    href: /en-us/concepts/onenote_input_output_html
+  - name: Personal contacts     
+    href: /en-us/concepts/outlook-contacts-concept-overview
+  - name: Reports     
+    href: /en-us/concepts/reportroot-concept-overview
+  - name: Security (preview)     
+    href: /en-us/concepts/security-concept-overview
+	- name: Integrate with a SIEM     
+    href: /en-us/concepts/security_siemintegration
+	- name: Authorization     
+    href: /en-us/concepts/security-authorization
+  - name: Sites and lists     
+    href: /en-us/concepts/sharepoint-concept-overview
+  - name: Social intelligence     
+    href: /en-us/concepts/social-intel-concept-overview
+	- name: Get information about relevant people     
+    href: /en-us/concepts/people_example
+  - name: Tasks and plans     
+    href: /en-us/concepts/planner-concept-overview
+  - name: Teamwork (preview)     
+    href: /en-us/concepts/teams-concept-overview
+  - name: Workbooks and charts     
+    href: /en-us/concepts/excel-concept-overview
+    items:
+	  - name: Manage sessions       
+      href: /en-us/concepts/excel-manage-sessions
+	  - name: Display a chart image       
+      href: /en-us/concepts/excel-display-chart-image
+	  - name: Use workbook functions       
+      href: /en-us/concepts/excel-use-functions
+	  - name: Update a range format       
+      href: /en-us/concepts/excel-update-range-format
+	  - name: Write data to a workbook       
+      href: /en-us/concepts/excel-write-to-workbook
+- name: DEVELOP   
+  href: http://graph.microsoft.com
+  items:
+  - name: Get auth tokens     
+    href: /en-us/concepts/auth_overview
+    items:
+    - name: Register your app       
+      href: /en-us/concepts/auth_register_app_v2
+    - name: Get access on behalf of a user       
+      href: /en-us/concepts/auth_v2_user
+    - name: Get access without a user       
+      href: /en-us/concepts/auth_v2_service
+    - name: Permissions       
+      href: /en-us/concepts/permissions_reference
+    - name: Manage app access (CSPs)       
+      href: /en-us/concepts/auth_cloudsolutionprovider
+  - name: Use the API     
+    href: /en-us/concepts/use_the_api
+    items:
+    - name: Paging       
+      href: /en-us/concepts/paging
+    - name: Use query parameters       
+      href: /en-us/concepts/query_parameters
+    - name: Batch requests       
+      href: /en-us/concepts/json_batching
+    - name: Throttling       
+      href: /en-us/concepts/throttling
+    - name: Change notifications       
+      href: /en-us/concepts/webhooks
+	- name: Track changes     
+    href: /en-us/concepts/delta_query_overview
+    items:
+    - name: Get changes to events (example)       
+      href: /en-us/concepts/delta_query_events
+    - name: Get changes to groups (example)       
+      href: /en-us/concepts/delta_query_groups
+    - name: Get changes to messages (example)       
+      href: /en-us/concepts/delta_query_messages
+    - name: Get changes to users (example)       
+      href: /en-us/concepts/delta_query_users
+	- name: Add custom data     
+    href: /en-us/concepts/extensibility_overview
+    items:
+    - name: Use open extensions (example)       
+      href: /en-us/concepts/extensibility_open_users
+    - name: Use schema extensions (example)       
+      href: /en-us/concepts/extensibility_schema_groups
+- name: RESOURCES   
+  href: http://graph.microsoft.com
+  items:
+	- name: Best practices     
+    href: /en-us/concepts/best-practices-concept
+    items:
+    - name: Known issues       
+      href: /en-us/concepts/known_issues
+	- name: Changelog     
+    href: /en-us/concepts/changelog
+	- name: Errors     
+    href: /en-us/concepts/errors
+  
