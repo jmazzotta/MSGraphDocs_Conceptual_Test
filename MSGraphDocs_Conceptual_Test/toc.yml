@@ -1,5 +1,7 @@
-- name: Overview
-  href: index.md
+- name: EXPLORE
   items:
-  - name: Introduction
-    href: intro.md
+  - name: Services in Microsoft Graph
+    href: overview-major-services.md
+    items:  
+    - name: Users you can reach
+      href: users-you-can-reach.md
