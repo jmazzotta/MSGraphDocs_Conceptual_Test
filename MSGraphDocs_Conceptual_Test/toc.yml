@@ -1,183 +1,105 @@
 --- 
-- 
-  href: "http://graph.microsoft.com"
+- href: "http://graph.microsoft.com"
   items: 
-    - 
-      href: /en-us/concepts/android
-      name: Android
-    - 
-      href: /en-us/concepts/angular
-      name: Angular
-    - 
-      href: /en-us/concepts/aspnetmvc
-      name: "ASP.NET MVC"
-    - 
-      href: /en-us/concepts/ios_objectivec
-      name: "iOS (Objective-C)"
-    - 
-      href: /en-us/concepts/ios_swift
-      name: "iOS (Swift)"
-    - 
-      href: /en-us/concepts/nodejs
-      items: 
-        - 
-          href: /en-us/concepts/php
-          name: PHP
-        - 
-          href: /en-us/concepts/python
-          name: Python
-        - 
-          href: /en-us/concepts/ruby
-          name: Ruby
-        - 
-          href: /en-us/concepts/rest
-          name: REST
-        - 
-          href: /en-us/concepts/uwp
-          name: UWP
-        - 
-          href: /en-us/concepts/office_365_connected_services
-          name: "Visual Studio Connected Services"
-        - 
-          href: /en-us/concepts/xamarin
-          name: Xamarin
-      name: Node.js
-  name: EXPLORE
-- 
-  href: "http://graph.microsoft.com"
-  items: 
-    - 
-      href: /en-us/concepts/onenote_best_practices
+  - href: /en-us/concepts/android
+    name: Android
+  - href: /en-us/concepts/angular
+    name: Angular
+  - href: /en-us/concepts/aspnetmvc
+    name: "ASP.NET MVC"
+  - href: /en-us/concepts/ios_objectivec
+    name: "iOS (Objective-C)"
+  - href: /en-us/concepts/ios_swift
+    name: "iOS (Swift)"
+  - href: /en-us/concepts/nodejs
+    items: 
+    - href: /en-us/concepts/php
+      name: PHP
+    - href: /en-us/concepts/python
+      name: Python
+    - href: /en-us/concepts/ruby
+      name: Ruby
+    - href: /en-us/concepts/rest
+      name: REST
+    - href: /en-us/concepts/uwp
+      name: UWP
+    - href: /en-us/concepts/office_365_connected_services
+      name: "Visual Studio Connected Services"
+    - href: /en-us/concepts/xamarin
+      name: Xamarin
+  - href: "http://graph.microsoft.com"
+    items: 
+    - href: /en-us/concepts/onenote_best_practices
       name: "Best practices"
-    - 
-      href: /en-us/concepts/
+    - href: /en-us/concepts/
       name: ~
-    - 
-      href: /en-us/concepts/onenote-branding
+    - href: /en-us/concepts/onenote-branding
       name: "Branding guidelines"
-    - 
-      href: /en-us/concepts/open_onenote_client
+    - href: /en-us/concepts/open_onenote_client
       name: "Open the OneNote client"
-    - 
-      href: /en-us/concepts/onenote-note-tags
+    - href: /en-us/concepts/onenote-note-tags
       name: "Use note tags"
-    - 
-      href: /en-us/concepts/onenote_error_codes
+    - href: /en-us/concepts/onenote_error_codes
       name: "Error codes"
-    - 
-      href: /en-us/concepts/onenote-get-content
+    - href: /en-us/concepts/onenote-get-content
       name: "Get OneNote content"
-    - 
-      href: /en-us/concepts/onenote-create-page
+    - href: /en-us/concepts/onenote-create-page
       name: "Create pages"
-    - 
-      href: /en-us/concepts/onenote_update_page
+    - href: /en-us/concepts/onenote_update_page
       name: "Update page content"
-    - 
-      href: /en-us/concepts/onenote-abs-pos
+    - href: /en-us/concepts/onenote-abs-pos
       name: "Create absolute positioned elements"
-    - 
-      href: /en-us/concepts/onenote_images_files
+    - href: /en-us/concepts/onenote_images_files
       name: "Add images, videos, and files"
-    - 
-      href: /en-us/concepts/onenote-extract-data
+    - href: /en-us/concepts/onenote-extract-data
       name: "Extract data"
-    - 
-      href: /en-us/concepts/onenote_input_output_html
+    - href: /en-us/concepts/onenote_input_output_html
       name: "Input and output HTML"
-    - 
-      href: /en-us/concepts/outlook-contacts-concept-overview
+    - href: /en-us/concepts/outlook-contacts-concept-overview
       name: "Personal contacts"
-    - 
-      href: /en-us/concepts/reportroot-concept-overview
+    - href: /en-us/concepts/reportroot-concept-overview
       name: Reports
-    - 
-      href: /en-us/concepts/security-concept-overview
+    - href: /en-us/concepts/security-concept-overview
       name: "Security (preview)"
-    - 
-      href: /en-us/concepts/security_siemintegration
+    - href: /en-us/concepts/security_siemintegration
       name: "Integrate with a SIEM"
-    - 
-      href: /en-us/concepts/security-authorization
+    - href: /en-us/concepts/security-authorization
       name: Authorization
-    - 
-      href: /en-us/concepts/sharepoint-concept-overview
+    - href: /en-us/concepts/sharepoint-concept-overview
       name: "Sites and lists"
-    - 
-      href: /en-us/concepts/social-intel-concept-overview
+    - href: /en-us/concepts/social-intel-concept-overview
       name: "Social intelligence"
-    - 
-      href: /en-us/concepts/people_example
+    - href: /en-us/concepts/people_example
       name: "Get information about relevant people"
-    - 
-      href: /en-us/concepts/planner-concept-overview
+    - href: /en-us/concepts/planner-concept-overview
       name: "Tasks and plans"
-    - 
-      href: /en-us/concepts/teams-concept-overview
+    - href: /en-us/concepts/teams-concept-overview
       name: "Teamwork (preview)"
-    - 
-      href: /en-us/concepts/excel-concept-overview
-      items: ~
+    - href: /en-us/concepts/excel-concept-overview
+    items: ~
       name: "Workbooks and charts"
-    - 
-      href: /en-us/concepts/excel-manage-sessions
+    - href: /en-us/concepts/excel-manage-sessions
       name: "Manage sessions"
-    - 
-      href: /en-us/concepts/excel-display-chart-image
+    - href: /en-us/concepts/excel-display-chart-image
       name: "Display a chart image"
-    - 
-      href: /en-us/concepts/excel-use-functions
+    - href: /en-us/concepts/excel-use-functions
       name: "Use workbook functions"
-    - 
-      href: /en-us/concepts/excel-update-range-format
+    - href: /en-us/concepts/excel-update-range-format
       name: "Update a range format"
-    - 
-      href: /en-us/concepts/excel-write-to-workbook
+    - href: /en-us/concepts/excel-write-to-workbook
       name: "Write data to a workbook"
   name: LEARN
-- 
-  href: "http://graph.microsoft.com"
+  - href: "http://graph.microsoft.com"
   items: 
-    - 
-      href: /en-us/concepts/auth_overview
+  - href: /en-us/concepts/auth_overview
       items: 
-        - 
-          href: /en-us/concepts/auth_register_app_v2
+        - href: /en-us/concepts/auth_register_app_v2
           name: "Register your app"
-        - 
-          href: /en-us/concepts/auth_v2_user
+        - href: /en-us/concepts/auth_v2_user
           name: "Get access on behalf of a user"
-        - 
-          href: /en-us/concepts/auth_v2_service
+        - href: /en-us/concepts/auth_v2_service
           name: "Get access without a user"
-        - 
-          href: /en-us/concepts/permissions_reference
+        - href: /en-us/concepts/permissions_reference
           name: Permissions
-        - 
-          href: /en-us/concepts/auth_cloudsolutionprovider
-          name: "Manage app access (CSPs)"
-      name: "Get auth tokens"
-    - 
-      href: /en-us/concepts/use_the_api
-      items: 
-        - 
-          href: /en-us/concepts/extensibility_open_users
-          name: "Use open extensions (example)"
-        - 
-          href: /en-us/concepts/extensibility_schema_groups
-          name: "Use schema extensions (example)"
-      name: "Use the API"
-  name: DEVELOP
-- 
-  href: "http://graph.microsoft.com"
-  items: 
-    - 
-      href: /en-us/concepts/known_issues
-      name: "Known issues"
-    - 
-      href: /en-us/concepts/changelog
-      name: Changelog
-    - 
-      href: /en-us/concepts/errors
-      name: Errors
-  name: RESOURCES
+        - href: /en-us/concepts/auth_cloudsolutionprovider
+          name: "Manage app access (CSPs)"  
