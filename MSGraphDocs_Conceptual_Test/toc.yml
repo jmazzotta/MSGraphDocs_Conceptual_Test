@@ -1,72 +1,75 @@
 - name: EXPLORE
   href: 
+  expanded: true
   items:
   - name: Overview
-    href:    
+    href: overview.md   
     items:
     - name: Services in Microsoft Graph
-      href:    
+      href: overview-major-services.md   
     - name: Users can reach you
-      href:
+      href: users-you-can-reach.md
       items:    
       - name: National cloud deployments
-        href:    
+        href: deployments.md   
       - name: Hybrid cloud deployments (preview)
-        href:    
+        href: hybrid_rest_support.md   
     - name: Versioning and support
-      href:    
+      href: versioning_and_support.md   
     - name: Terms of use
-      href:    
+      href: terms-of-use.md   
     - name: Quick starts
-      href:    
+      href: get-started.md   
       items:
       - name: Android
-        href:    
+        href: android.md   
       - name: Angular
-        href:    
+        href: angular.md   
       - name: ASP.NET MVC
-        href:    
+        href: aspnetmvc.md   
       - name: iOS (Objective-C)
-        href:    
+        href: ios_objectivec.md   
       - name: iOS (Swift)
-        href:    
+        href: ios_swift.md   
       - name: Node.js
-        href:    
+        href: nodejs.md   
       - name: PHP
-        href:    
+        href: php.md   
       - name: Python
-        href:    
+        href: python.md   
       - name: Ruby
-        href:    
+        href: ruby.md   
       - name: REST
-        href:    
+        href: rest.md   
       - name: UWP
-        href:    
+        href: uwp.md   
       - name: Visual Studio Connected Services
         href:    
       - name: Xamarin
         href:    
 - name: LEARN
-  href:    
-- name: Users
-  href:    
-- name: Groups
-  href:    
-- name: Calendar
   href:
+  expanded: true
   items:    
-  - name: Find meeting times
+  - name: Users
     href:    
-  - name: Schedule recurring events
+  - name: Groups
     href:    
-- name: Cross-device experiences
-  href:
-  items:    
-  - name: Activity feed
-    href:    
-  - name: Device relay (preview)
-    href:    
-  - name: Build cross-device apps
-    href:    
-  - name: Customer booking (preview)
-    href:    
+  - name: Calendar
+    href:
+    items:    
+    - name: Find meeting times
+      href:    
+    - name: Schedule recurring events
+      href:    
+  - name: Cross-device experiences
+    href:
+    items:    
+    - name: Activity feed
+      href:    
+    - name: Device relay (preview)
+      href:    
+    - name: Build cross-device apps
+      href:    
+    - name: Customer booking (preview)
+      href:    
