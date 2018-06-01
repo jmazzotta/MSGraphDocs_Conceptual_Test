@@ -2,9 +2,12 @@
   href: 
   expanded: true
   items:
+  expanded: true
   - name: Overview
     href: overview.md   
+    expanded: true
     items:
+    expanded: true
     - name: Services in Microsoft Graph
       href: overview-major-services.md   
     - name: Users can reach you
