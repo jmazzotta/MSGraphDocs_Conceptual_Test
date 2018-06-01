@@ -1,13 +1,11 @@
 
-    - name: Exchange Server
-      href: exchange-server-development.md
+    - name: EXPLORE
+      href: 
       items:      
-        - name: Migration
+        - name: Services in Microsoft Graph
           href: migrating-to-exchange-online-and-exchange-2013-technologies.md
-        - name: Web services
-          href: exchange-web-services/explore-the-ews-managed-api-ews-and-web-services-in-exchange.md
           items:
-            - name: What's new
+            - name: Users you can reach
               href: exchange-web-services/whats-new-in-ews-and-other-web-services-in-exchange.md
             - name: Start
               href: exchange-web-services/start-using-web-services-in-exchange.md
