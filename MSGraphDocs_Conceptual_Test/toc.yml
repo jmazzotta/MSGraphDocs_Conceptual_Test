@@ -7,11 +7,12 @@
     - name: Services in Microsoft Graph
       href:    
     - name: Users can reach you
-      href:    
-    - name: National cloud deployments
-      href:    
-    - name: Hybrid cloud deployments (preview)
-      href:    
+      href:
+      items:    
+      - name: National cloud deployments
+        href:    
+      - name: Hybrid cloud deployments (preview)
+        href:    
     - name: Versioning and support
       href:    
     - name: Terms of use
@@ -45,25 +46,27 @@
         href:    
       - name: Xamarin
         href:    
-    - name: LEARN
-      href:    
-    - name: Users
-      href:    
-    - name: Groups
-      href:    
-    - name: Calendar
-      href:    
+- name: LEARN
+  href:    
+  - name: Users
+    href:    
+  - name: Groups
+    href:    
+  - name: Calendar
+    href:
+    items:    
     - name: Find meeting times
       href:    
     - name: Schedule recurring events
       href:    
-    - name: Cross-device experiences
-      href:    
+  - name: Cross-device experiences
+    href:
+    items:    
     - name: Activity feed
       href:    
     - name: Device relay (preview)
       href:    
     - name: Build cross-device apps
       href:    
-    - name: Customer booking (preview)
-      href:    
+  - name: Customer booking (preview)
+    href:    
