@@ -1,4 +1,5 @@
 - name: EXPLORE
+  items:
   - name: Services in Microsoft Graph
     href: overview-major-services.md
     items:  
