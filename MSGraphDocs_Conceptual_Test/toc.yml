@@ -1,66 +1,67 @@
 - name: EXPLORE
   href: 
-- name: Overview
-  href:    
-- name: Services in Microsoft Graph
-  href:    
-- name: Users can reach you
-  href:    
-- name: National cloud deployments
-  href:    
-- name: Hybrid cloud deployments (preview)
-  href:    
-- name: Versioning and support
-  href:    
-- name: Terms of use
-  href:    
-- name: Quick starts
-  href:    
-- name: Android
-  href:    
-- name: Angular
-  href:    
-- name: ASP.NET MVC
-  href:    
-- name: iOS (Objective-C)
-  href:    
-- name: iOS (Swift)
-  href:    
-- name: Node.js
-  href:    
-- name: PHP
-  href:    
-- name: Python
-  href:    
-- name: Ruby
-  href:    
-- name: REST
-  href:    
-- name: UWP
-  href:    
-- name: Visual Studio Connected Services
-  href:    
-- name: Xamarin
-  href:    
-- name: LEARN
-  href:    
-- name: Users
-  href:    
-- name: Groups
-  href:    
-- name: Calendar
-  href:    
-- name: Find meeting times
-  href:    
-- name: Schedule recurring events
-  href:    
-- name: Cross-device experiences
-  href:    
-- name: Activity feed
-  href:    
-- name: Device relay (preview)
-  href:    
-- name: Build cross-device apps
-  href:    
-- name: Customer booking (preview)
-  href:    
+  - name: Overview
+    href:    
+    items:
+    - name: Services in Microsoft Graph
+      href:    
+    - name: Users can reach you
+      href:    
+    - name: National cloud deployments
+      href:    
+    - name: Hybrid cloud deployments (preview)
+      href:    
+    - name: Versioning and support
+      href:    
+    - name: Terms of use
+      href:    
+    - name: Quick starts
+      href:    
+    - name: Android
+      href:    
+    - name: Angular
+      href:    
+    - name: ASP.NET MVC
+      href:    
+    - name: iOS (Objective-C)
+      href:    
+    - name: iOS (Swift)
+      href:    
+    - name: Node.js
+      href:    
+    - name: PHP
+      href:    
+    - name: Python
+      href:    
+    - name: Ruby
+      href:    
+    - name: REST
+      href:    
+    - name: UWP
+      href:    
+    - name: Visual Studio Connected Services
+      href:    
+    - name: Xamarin
+      href:    
+    - name: LEARN
+      href:    
+    - name: Users
+      href:    
+    - name: Groups
+      href:    
+    - name: Calendar
+      href:    
+    - name: Find meeting times
+      href:    
+    - name: Schedule recurring events
+      href:    
+    - name: Cross-device experiences
+      href:    
+    - name: Activity feed
+      href:    
+    - name: Device relay (preview)
+      href:    
+    - name: Build cross-device apps
+      href:    
+    - name: Customer booking (preview)
+      href:    
