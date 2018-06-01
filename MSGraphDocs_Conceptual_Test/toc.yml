@@ -55,18 +55,18 @@
 - name: Calendar
   href:
   items:    
-    - name: Find meeting times
-      href:    
-    - name: Schedule recurring events
-      href:    
-  - name: Cross-device experiences
-    href:
-    items:    
-    - name: Activity feed
-      href:    
-    - name: Device relay (preview)
-      href:    
-    - name: Build cross-device apps
-      href:    
+  - name: Find meeting times
+    href:    
+  - name: Schedule recurring events
+    href:    
+- name: Cross-device experiences
+  href:
+  items:    
+  - name: Activity feed
+    href:    
+  - name: Device relay (preview)
+    href:    
+  - name: Build cross-device apps
+    href:    
   - name: Customer booking (preview)
     href:    
