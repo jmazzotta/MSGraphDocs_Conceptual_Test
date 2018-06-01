@@ -1,7 +1,16 @@
 - name: EXPLORE
-  items:
   - name: Services in Microsoft Graph
     href: overview-major-services.md
     items:  
     - name: Users you can reach
       href: users-you-can-reach.md
+      - name: National cloud deployments
+        href: deployments.md
+      - name: Hybrid deployments (preview)
+        href: hybrid_rest_support.md
+    - name: Versioning and support
+      href: versioning_and_support.md
+    - name: Terms of use
+      href: terms-of-use.md
+    
+    
