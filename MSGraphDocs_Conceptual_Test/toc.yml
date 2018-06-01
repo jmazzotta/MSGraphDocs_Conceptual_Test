@@ -4,8 +4,8 @@
       items:      
         - name: Overview
           href: migrating-to-exchange-online-and-exchange-2013-technologies.md   
-          - name: Services in Microsoft Graph
-            href: migrating-to-exchange-online-and-exchange-2013-technologies.md
+        - name: Services in Microsoft Graph
+          href: migrating-to-exchange-online-and-exchange-2013-technologies.md
           items:
             - name: Users you can reach
               href: exchange-web-services/whats-new-in-ews-and-other-web-services-in-exchange.md
