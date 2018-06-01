@@ -48,13 +48,13 @@
         href:    
 - name: LEARN
   href:    
-  - name: Users
-    href:    
-  - name: Groups
-    href:    
-  - name: Calendar
-    href:
-    items:    
+- name: Users
+  href:    
+- name: Groups
+  href:    
+- name: Calendar
+  href:
+  items:    
     - name: Find meeting times
       href:    
     - name: Schedule recurring events
