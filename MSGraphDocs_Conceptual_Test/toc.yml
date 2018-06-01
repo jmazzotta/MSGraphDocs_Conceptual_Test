@@ -4,7 +4,7 @@
       items:      
         - name: Overview
           href: migrating-to-exchange-online-and-exchange-2013-technologies.md   
-        items:
+          items:
           - name: Services in Microsoft Graph
             href: migrating-to-exchange-online-and-exchange-2013-technologies.md
           - name: Users you can reach
