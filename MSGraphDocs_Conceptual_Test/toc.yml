@@ -1,5 +1,6 @@
 - name: EXPLORE
   href: 
+  items:
   - name: Overview
     href:    
     items:
@@ -17,32 +18,33 @@
       href:    
     - name: Quick starts
       href:    
-    - name: Android
-      href:    
-    - name: Angular
-      href:    
-    - name: ASP.NET MVC
-      href:    
-    - name: iOS (Objective-C)
-      href:    
-    - name: iOS (Swift)
-      href:    
-    - name: Node.js
-      href:    
-    - name: PHP
-      href:    
-    - name: Python
-      href:    
-    - name: Ruby
-      href:    
-    - name: REST
-      href:    
-    - name: UWP
-      href:    
-    - name: Visual Studio Connected Services
-      href:    
-    - name: Xamarin
-      href:    
+      items:
+      - name: Android
+        href:    
+      - name: Angular
+        href:    
+      - name: ASP.NET MVC
+        href:    
+      - name: iOS (Objective-C)
+        href:    
+      - name: iOS (Swift)
+        href:    
+      - name: Node.js
+        href:    
+      - name: PHP
+        href:    
+      - name: Python
+        href:    
+      - name: Ruby
+        href:    
+      - name: REST
+        href:    
+      - name: UWP
+        href:    
+      - name: Visual Studio Connected Services
+        href:    
+      - name: Xamarin
+        href:    
     - name: LEARN
       href:    
     - name: Users
