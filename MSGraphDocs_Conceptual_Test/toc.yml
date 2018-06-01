@@ -52,24 +52,24 @@
   expanded: true
   items:    
   - name: Users
-    href:    
+    href: azuread-users-concept-overview.md   
   - name: Groups
-    href:    
+    href: office365-groups-concept-overview.md   
   - name: Calendar
-    href:
+    href: outlook-calendar-concept-overview.md
     items:    
     - name: Find meeting times
-      href:    
+      href: findmeetingtimes-example.md   
     - name: Schedule recurring events
-      href:    
+      href: outlook-schedule-recurring-events.md   
   - name: Cross-device experiences
-    href:
+    href: cross-device-concept-overview.md
     items:    
     - name: Activity feed
-      href:    
+      href: activity-feed-concept-overview.md   
     - name: Device relay (preview)
-      href:    
+      href: device-relay-concept-overview.md   
     - name: Build cross-device apps
-      href:    
-    - name: Customer booking (preview)
-      href:    
+      href: cross-device-app-configuration.md   
+  - name: Customer booking (preview)
+    href: booking-concept-overview.md   
