@@ -8,7 +8,7 @@
     items:
     - name: Services in Microsoft Graph
       href: overview-major-services.md   
-    - name: Users can reach you
+    - name: Users you can reach
       href: users-you-can-reach.md
       items:    
       - name: National cloud deployments
@@ -19,35 +19,35 @@
       href: versioning_and_support.md   
     - name: Terms of use
       href: terms-of-use.md   
-    - name: Quick starts
-      href: get-started.md   
-      items:
-      - name: Android
-        href: android.md   
-      - name: Angular
-        href: angular.md   
-      - name: ASP.NET MVC
-        href: aspnetmvc.md   
-      - name: iOS (Objective-C)
-        href: ios_objectivec.md   
-      - name: iOS (Swift)
-        href: ios_swift.md   
-      - name: Node.js
-        href: nodejs.md   
-      - name: PHP
-        href: php.md   
-      - name: Python
-        href: python.md   
-      - name: Ruby
-        href: ruby.md   
-      - name: REST
-        href: rest.md   
-      - name: UWP
-        href: uwp.md   
-      - name: Visual Studio Connected Services
-        href:    
-      - name: Xamarin
-        href:    
+  - name: Quick starts
+    href: get-started.md   
+    items:
+    - name: Android
+      href: android.md   
+    - name: Angular
+      href: angular.md   
+    - name: ASP.NET MVC
+      href: aspnetmvc.md   
+    - name: iOS (Objective-C)
+      href: ios_objectivec.md   
+    - name: iOS (Swift)
+      href: ios_swift.md   
+    - name: Node.js
+      href: nodejs.md   
+    - name: PHP
+      href: php.md   
+    - name: Python
+      href: python.md   
+    - name: Ruby
+      href: ruby.md   
+    - name: REST
+      href: rest.md   
+    - name: UWP
+      href: uwp.md   
+    - name: Visual Studio Connected Services
+      href:    
+    - name: Xamarin
+      href:    
 - name: LEARN
   href:
   expanded: true
